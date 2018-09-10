@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class FortuneTellerV1 {
 	public static void main(String[] args) {
 
+		// This version is for deploying tested, working features
+
 		Scanner input = new Scanner(System.in);
 
 		System.out.println("Hello, mortal.");
