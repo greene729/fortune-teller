@@ -1,0 +1,7 @@
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# this is a comment and it is here 
